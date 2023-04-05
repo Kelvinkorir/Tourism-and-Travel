@@ -1,0 +1,68 @@
+div{
+    background:linear-gradient(rgba(0, 0, 0, 0.05));
+
+}
+
+body{
+    background-color: rgb(0,0,0,0.05);
+}
+div.cesur{
+    background-color: maroon;
+    height: 40px;
+    padding-top: 24px;
+    border-radius: 5px;
+    word-spacing: 1cm;
+    padding-left: 9px;
+
+}
+a{
+    color:mintcream;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{ 
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+header{
+    background-color: rgb(137, 229, 137);
+}
+form{
+    border: rgb(34, 127, 34);
+}
+
+ 
+p.nu{
+    color: maroon;
+}
+a.hf{
+    color: maroon;
+
+}
+a.yes{
+    color:maroon;
+}
+figcaption.fig{
+    font-style: italic;
+
+}
+img{
+    border-radius: 5px;
+}
+h1.sad{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-style: double;
+}
+h5{
+    text-align: center;
+}
+a.dad{
+    color: red;
+}
+footer {
+    text-align: center;
+    color:rgb(0, 255, 136);
+    font-size: 40px;
+}
